@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Ayat Essam 👋<br><br>**Junior Flutter Developer** | Mobile & Cross-Platform | Cairo, Egypt<br><br>I build cross-platform mobile apps with Flutter and Dart, using Clean Architecture and solid state management. I graduated from the ITI Summer Training Program, and I've been freelancing since August 2025.<br><br>🛠️ Tech Stack<br><br>**Mobile:** Flutter, Dart, Bloc/Cubit, Riverpod, Provider, MVVM, Repository Pattern<br><br>**Backend & APIs:** Firebase (Firestore, Auth, Notifications), REST APIs, Node.js, MongoDB, Postman<br><br>**Web:** React.js, JavaScript<br><br>**Other Languages:** Python, C++<br><br>**Tools:** Git, GitHub, Figma, Android Studio, CI/CD, Agile/Scrum<br><br> 🏗️ How I Build<br>- Clean Architecture with separate presentation, domain, and data layers<br>- Bloc/Cubit or Riverpod for scalable state management<br>- Systematic debugging and code reviews<br><br>🚀 Featured Projects<br><br> [PathFinder AI](https://github.com/YOUR_USERNAME/PathFinder-AI)<br>An AI-powered career companion built with Flutter. Users can analyze their CVs, chat with an AI career mentor, and explore roadmaps and jobs.<br><br> [O2 Fitness Gym](https://github.com/YOUR_USERNAME/fitnies)<br>An AI-powered fitness coach app built with Flutter, Riverpod, and Clean Architecture. It has full authentication, workout modules, and Gemini API chat integration.<br><br> [Diagnosis – Clinic Management App](https://github.com/YOUR_USERNAME/Diagnosis)<br>A clinic management app built with Clean Architecture and Cubit for maintainable, reusable code.<br><br>[FinanceApp – Personal Finance Tracker](https://github.com/YOUR_USERNAME/FinanceApp)<br>A personal finance tracker with user profiles, Firebase Firestore for real-time sync, and push notifications.<br><br>🎓 Education & Training<br>- **B.Sc. Information Systems & Electronic Archive**, Beni-Suef University (2021–2025), GPA 3.86 / 4.0<br>- **ITI Summer Training, Mobile Application Development (Flutter)**, 2026<br>- **Flutter Development Certification**, Route Academy, 2024<br><br>📚 Currently Learning<br>- Riverpod 2.x with code generation<br>- AI agents with Node.js and LangChain<br><br> 💼 Open To<br>Freelance projects and Flutter developer roles.<br><br>📫 Connect<br>- LinkedIn: [Ayat Essam](www.linkedin.com/in/ayat-essam-514857321<br>)<br>- Email: ayatessam844@gmail.com<br><br>## 📊 GitHub Stats<br><br>![Ayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
-<!--
-**ayatessam844-eng/ayatessam844-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayat-essam-514857321) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ayatessam844-eng&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ayatessam844-eng&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayatessam844-eng&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ayatessam844-eng&icon=5&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
